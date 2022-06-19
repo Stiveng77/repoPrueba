@@ -15,6 +15,8 @@ public class mainPrueba {
         System.out.println(p.getNombre());
         p.setNombre("Stiven");
         
-        System.out.println("QUÉ MÁS");
+        System.out.println("QUÉ MÁS");{
+        System.out.println("CON QUE ASÍ ERA");
+    }
     }
 }
